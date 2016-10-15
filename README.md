@@ -23,16 +23,12 @@ Data Size - 20GB
 
 ## Architecture
 
-<img src="images/architecture.png" height=400px width=250px />
+<img src="images/architecture.png" height=400px width=400px align="middle"/>
 
 ## Analytics
 The following set of questions are analyzed on the data :
 <ul>
-<li>Most Valuable Users in the Stack Overflow
-
-<img src="images/valuableusers.png" width=500px />
-
-</li>
+<li>Most Valuable Users in the Stack Overflow <img src="images/valuableusers.png" width=800px /></li>
 
 <li>Top Developers in Java</li>
 
