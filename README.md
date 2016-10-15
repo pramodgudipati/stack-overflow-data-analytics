@@ -28,9 +28,11 @@ Data Size - 20GB
 ## Analytics
 The following set of questions are analyzed on the data :
 <ul>
-<li>Most Valuable Users in the Stack Overflow</li>
+<li>Most Valuable Users in the Stack Overflow
 
 ![alt text](images/valuableusers.png?raw=true "Valuable Users")
+
+</li>
 
 <li>Top Developers in Java</li>
 
