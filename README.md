@@ -22,30 +22,38 @@ Data Format - XML
 Data Size - 20GB
 
 ## Architecture
+[Back to Table of Contents](README.md#table-of-contents)
 
-<img src="images/architecture.png" height=400px width=400px align="middle"/>
+<img src="images/architecture.png" height=400px width=400px align="center"/>
 
 ## Analytics
+[Back to Table of Contents](README.md#table-of-contents)
+
 The following set of questions are analyzed on the data :
 <ul>
 <li>Most Valuable Users in the Stack Overflow <img src="images/valuableusers.png" width=800px /></li>
 
-<li>Top Developers in Java</li>
+<li>Top Developers in Java <img src="images/javadevelopers.png?raw=true" width= 800px /> </li>
 
-![alt text](images/javadevelopers.png?raw=true "Java Developers")
+<li>User proficiency <img src="images/userproficiency.png" /></li>
+
+<li>Evolution of Questions and Answers counts over Time <img src="images/questionsandanswers.png" /> </li>
+
+<li>Top 50 Tags, </li>
+
+<li>Frequency Upvotes and Downvotes analysis for a post over Time</li>
+
+<li>Users with High Reputation in the site</li>
 
 <li>Number of new Users in each year</li>
+
 <li>Distribution of Users over the world</li>
-<li>User proficiency</li>
 
-![alt text](images/userproficiency.png?raw=true "User Proficiency")
-
-<li>Evolution of Questions and Answers counts over Time</li>
-
-![alt text](images/questionsandanswers.png?raw=true "Questions and Answers Growth")
 </ul>
 
-Used Google Charts API for graphical representation of results.
+Used Google Charts API for visualization of results.
 
 ## Presentation
-[Presentation](http://bit.ly/stackoverflowanalytics)
+[back to Table of Contents](README.md#table-of-contents)
+
+[Slides](http://bit.ly/stackoverflowanalytics)
