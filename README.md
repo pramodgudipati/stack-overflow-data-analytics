@@ -23,14 +23,14 @@ Data Size - 20GB
 
 ## Architecture
 
-![alt text](images/architecture.png?raw=true "Architecture")
+<img src="images/architecture.png" height=400px width=250px />
 
 ## Analytics
 The following set of questions are analyzed on the data :
 <ul>
 <li>Most Valuable Users in the Stack Overflow
 
-![alt text](images/valuableusers.png?raw=true "Valuable Users")
+<img src="images/valuableusers.png" width=500px />
 
 </li>
 
