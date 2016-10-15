@@ -9,6 +9,7 @@
 
 ## Introduction
 [Back to Table of Contents](README.md#table-of-contents)
+
 Performed data analytics on publicly released data of StackOverflow using big data techniques like spark1.3, pig and hive.
 
 ## Data Source
@@ -20,21 +21,33 @@ Data Format - XML
 
 Data Size - 20GB
 
+## Architecture
+
+![alt text](images/architecture.png?raw=true "Architecture")
+
 ## Analytics
 The following set of questions are analyzed on the data :
 <ul>
 <li>Most Valuable Users in the Stack Overflow</li>
-<li>Users with High Reputation in the site</li>
+
+![alt text](images/valuableusers.png?raw=true "Valuable Users")
+
+<li>Top Developers in Java</li>
+
+![alt text](images/javadevelopers.png?raw=true "Java Developers")
+
 <li>Number of new Users in each year</li>
 <li>Distribution of Users over the world</li>
 <li>User proficiency</li>
-<li>Top Developers in Java</li>
-<li>Top 50 Tags</li>
-<li>Frequency Upvotes and Downvotes analysis for a post over Time</li>
+
+![alt text](images/userproficiency.png?raw=true "User Proficiency")
+
 <li>Evolution of Questions and Answers counts over Time</li>
+
+![alt text](images/questionsandanswers.png?raw=true "Questions and Answers Growth")
 </ul>
 
-Used Google charts API for graphical representation of results.
+Used Google Charts API for graphical representation of results.
 
 ## Presentation
 [Presentation](http://bit.ly/stackoverflowanalytics)
